@@ -11,7 +11,7 @@
 This list is the biggest [Warez](https://anonym.to/?https://en.wikipedia.org/wiki/Warez_scene) overview on the entire internet! It contains links to Warez related topics, discussions, tools etc. It also provides some background information about the scene.
 
 ## Disclaimer
-**GitHub and I do not supporting warez (!) - we're also not responsible for external links or their content! If you dislike the information this list provides then please contact the website owner/webmaster/hoster directly and fill a DMCA request.**
+**GitHub and I do not support warez (!) - we're also not responsible for external links or their content! If you dislike the information this list provides then please contact the website owner/webmaster/hostein directly and fill a DMCA request.**
 
 ### Why was this overview page created?
 * Research reasons!
@@ -35,7 +35,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 * Links to [banned websites](https://github.com/CHEF-KOCH/Warez/blob/master/Banned.md).
 * Links to [offline websites](https://github.com/CHEF-KOCH/Warez/blob/master/Offline.md).
 * Software which is outdated or not actively maintained, open source software is is general been preferred.
-* Insecure programs (no audit- or code-review) or insecure connections e.g. `http://` or `ftp://` links.
+* Insecure programs (no audit - or code-review) or insecure connections e.g. `http://` or `ftp://` links.
 * Why is program _X_ not listed e.g. K-9 mail, it's FOSS! Not every mention makes sense, especially in a [security context](https://anonym.to/?https://github.com/k9mail/k-9/issues/655).
 * Explicit content.
 * Tor (.onion) links, they are all _crippled_ (not clickable in Tor Browser).
@@ -45,7 +45,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 
 ## How do I search on this page?
 * A search function is planned, [among other small features](https://github.com/CHEF-KOCH/Warez/blob/master/.github/PROJECT_ToDo.md).
-* Since there is (currently) - no filter or page search you need to browse trough the page from within your Browser via `Ctrl + F` or `Cmd + F`.
+* Since there is (currently) - no filter or page search you need to browse trough the page from within your Browser via <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd> ⌘ Cmd</kbd> + </kbd>F</kbd>.
 * A web based search will be integrated at the end of Jan. 2020.
 
 ## Project structure
@@ -262,6 +262,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [Nada](https://anonym.to/?https://getnada.com/) - Fast & free.
 - [s.MailPro](https://anonym.to/?https://smailpro.com/) - Offering Temporary Email Service
 - [Temp Mail](https://anonym.to/?https://temp-mail.org/en/) - Keep spam out of your mail and stay safe - just use a disposable temporary email address!
+- [Mailinator](https://anonym.to/?https://mailinator.com/) - Enter any public email address that ends in `@mailinator.com`, and receive any email instantly.
 
 **[`^        back to top        ^`](#)**
 
@@ -271,6 +272,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [FastMail](https://anonym.to/?https://www.fastmail.com/?STKI=16785160) - Email, calendars and contacts done right.
 - [Rainloop](https://anonym.to/?https://www.rainloop.net/) - SIMPLE, MODERN & FAST WEB-BASED EMAIL CLIENT.
 - [Roundcube](https://anonym.to/?https://roundcube.net/) - MIME support, address book, folder manipulation, message searching and spell checking.
+- [hMailServer](https://www.hmailserver.com/) - An open-source and feature-rich mailserver supporting common protocols (IMAP, SMTP and POP3) with SSL/TLS support and built-in anti-spam for the Windows OS.
 
 **[`^        back to top        ^`](#)**
 
@@ -321,7 +323,7 @@ I do not accept any donations or add a sponsorship button for this repository. I
 - [APKMirror](https://anonym.to/?https://www.apkmirror.com/) - Provides legit mirrors with checksums for various apps.
 - [APK Mirror](https://anonym.to/?https://www.apkmirrordownload.com/) - Popular vietnamese website to download APK's.
 - [APKHouse](https://anonym.to/?https://apkhouse.com) - Provides mirrors for various Android apps incl. games.
-- [ApkPure](https://anonym.to/?https://apkpure.com/) - Another free APK mirror site.
+- [ApkPure](https://anonym.to/?https://apkpure.com/) -  free APK mirror site.
 - [Aptoide](https://anonym.to/?https://www.aptoide.com/) - Share and download cracked/modded and other apk's among mirrors for original untouched apks.
 - [BlackMod](https://anonym.to/?https://blackmod.net/) - Lots of cracked Android games.
 - [iHackedit](https://anonym.to/?https://ihackedit.com/) - Provides Android Apps & Games including Mods.
